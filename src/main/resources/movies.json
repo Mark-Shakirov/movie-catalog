@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Начало",
+    "director": "Кристофер Нолан",
+    "year": 2010,
+    "genre": "Фантастика",
+    "description": "Кобб — талантливый вор, лучший в опасном искусстве извлечения...",
+    "rating": 8.8,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/9gk7896K554955ogS7v76KjSInr.jpg"
+  },
+  {
+    "title": "Матрица",
+    "director": "Лана Вачовски",
+    "year": 1999,
+    "genre": "Боевик",
+    "description": "Хакер Нео узнает, что его жизнь — это компьютерная симуляция...",
+    "rating": 8.7,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/p4z5KzT7mG7v25Yk3s767v8v7Gv.jpg"
+  },
+  {
+    "title": "Криминальное чтиво",
+    "director": "Квентин Тарантино",
+    "year": 1994,
+    "genre": "Криминал",
+    "description": "Жизни двоих наемных убийц переплетаются с историей их босса...",
+    "rating": 8.9,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vQ9H169o9H1D84f03GkU077L7rF.jpg"
+  }
+]
